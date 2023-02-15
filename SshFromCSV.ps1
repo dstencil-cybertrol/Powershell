@@ -1,3 +1,5 @@
+#Install-Module -Name Posh-SSH
+
 #Specify $filepath for list of computers
 $filepath = "C:\users\file\to\path
 $file = "sshexample.csv"
